@@ -5,19 +5,23 @@ este es un pryecto de practica pra aprender el flujo de trabajo en github
 
 estamos documentando los primeros pasos en el control de versiones 
 
-** tecnologias utilizadas : 
+### tecnologias utilizadas : 
 
-**Git**
-**Git-Hub**
-**Markdown**
+# **Git**
+# **Git-Hub**
+# **Markdown**
 
-** Como usar el repositorio:
+### Como usar el repositorio:
 url
 
 
-** Autor
-
+### Autor
 Jackson Ramirez
+
+### Status
+Finalizadp 1.0
+
+
 
 
 
